@@ -1,5 +1,5 @@
 # Museum Landing Page pet-project
-- [DEMO LINK](https://d-hubych.github.io/landing_page_museum/)
+### ***[DEMO LINK](https://d-hubych.github.io/landing_page_museum/)***
 
 Implemented landing page according to [Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?type=design&node-id=320-165)
 
